@@ -1,2 +1,2 @@
 ## GeneY
-> story of Y `gene`.
+> The story of Y `gene`.
