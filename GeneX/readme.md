@@ -9,6 +9,8 @@ X Chromosome
 
 _The X chromosome is one of the two sex chromosomes that are involved in sex determination. Humans and most other mammals have two sex chromosomes (X and Y) that in combination determine the sex of an individual. Females have two X chromosomes in their cells, while males have one X and one Y_.
 
+_The X chromosome likely contains 900 to 1,400 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body_.
+
 Is a boy X or Y chromosome?
 
 _We inherit a set of 23 chromosomes from our mothers and another set of 23 from our fathers. One of those pairs are the chromosomes that determine the biological sex of a child – girls have an XX pair and boys have an XY pair, with very rare exceptions in certain disorders_.
