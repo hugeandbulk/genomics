@@ -30,3 +30,7 @@ _Usually, a female baby has 2 X chromosomes (XX) and a male has 1 X and 1 Y (XY)
 Which came first male or female?
 
 _Genetics Suggest `Modern Female` Came First_.
+
+Can a man have no Y chromosome?
+
+_Maleness and femaleness are NOT determined by having an X or a Y, since switching a couple of genes around can turn things upside down. In fact, there's a whole lot more to maleness and femaleness than X or Y chromosomes. About 1 in 20,000 men has no Y chromosome, instead having 2 Xs_.
