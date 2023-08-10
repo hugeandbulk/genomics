@@ -26,3 +26,7 @@ _XY system In humans, females are XX and males are XY_.
 Is XXY male or female?
 
 _Usually, a female baby has 2 X chromosomes (XX) and a male has 1 X and 1 Y (XY). But in Klinefelter syndrome, a boy is born with an extra copy of the X chromosome (XXY). The X chromosome is not a "female" chromosome and is present in everyone. The presence of a Y chromosome denotes male sex_.
+
+Which came first male or female?
+
+_Genetics Suggest `Modern Female` Came First_.
