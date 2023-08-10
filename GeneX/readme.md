@@ -40,3 +40,7 @@ _Maleness and femaleness are NOT determined by having an X or a Y, since switchi
 What determines gender?
 
 _These are known as the sex chromosomes. Every egg has an X sex chromosome; a sperm can have either an X or a Y sex chromosome. If the sperm that fertilizes an egg has an X chromosome, the baby is female; if it has a Y chromosome, the baby will be a boy_.
+
+What are the six sexes of humans?
+
+_There are at least six biological sexes that can result in fairly normal lifespans. Kennon then lists six karyotype variations in humans: XX, XY, X, XXY, XYY, and XXXY_.
