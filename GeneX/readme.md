@@ -2,7 +2,9 @@
 > The story of X `gene`.
 
 ## Human
-​
+
+**Declared**
+
 X Chromosome
 
 _The X chromosome is one of the two sex chromosomes that are involved in sex determination. Humans and most other mammals have two sex chromosomes (X and Y) that in combination determine the sex of an individual. Females have two X chromosomes in their cells, while males have one X and one Y_.
@@ -34,3 +36,7 @@ _Genetics Suggest `Modern Female` Came First_.
 Can a man have no Y chromosome?
 
 _Maleness and femaleness are NOT determined by having an X or a Y, since switching a couple of genes around can turn things upside down. In fact, there's a whole lot more to maleness and femaleness than X or Y chromosomes. About 1 in 20,000 men has no Y chromosome, instead having 2 Xs_.
+
+What determines gender?
+
+_These are known as the sex chromosomes. Every egg has an X sex chromosome; a sperm can have either an X or a Y sex chromosome. If the sperm that fertilizes an egg has an X chromosome, the baby is female; if it has a Y chromosome, the baby will be a boy_.
