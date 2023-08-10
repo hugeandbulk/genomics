@@ -18,3 +18,7 @@ _About half of individuals with Turner syndrome have monosomy X, which means eac
 What are the human X and Y chromosome?
 
 _In mammals, the sex chromosomes are called X and Y. Females have paired X chromosomes, one from each parent, while males have an X and a Y chromosome_.
+
+Is XY a baby girl?
+
+_XY system In humans, females are XX and males are XY_.
