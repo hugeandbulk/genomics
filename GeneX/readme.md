@@ -68,3 +68,7 @@ _Each cell in the human body contains DNA that is 6 feet long, has approximately
 Is DNA found in the blood?
 
 _DNA is contained in blood, semen, skin cells, tissue, organs, muscle, brain cells, bone, teeth, hair, saliva, mucus, perspiration, fingernails, urine, feces, etc. Where can DNA evidence be found at a crime scene? DNA evidence can be collected from virtually anywhere_.
+
+What is telomere and its function?
+
+_Telomeres, the specific DNA–protein structures found at both ends of each chromosome, protect genome from nucleolytic degradation, unnecessary recombination, repair, and interchromosomal fusion. Telomeres therefore play a vital role in preserving the information in our genome_.
