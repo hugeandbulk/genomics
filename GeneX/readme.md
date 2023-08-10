@@ -1,2 +1,2 @@
 ## GeneX
-> story of X `gene`.
+> The story of X `gene`.
