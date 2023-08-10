@@ -56,3 +56,7 @@ _People who are male have XY chromosomes. People who are females have XX chromos
 How long is human DNA?
 
 _Each cell in the human body contains DNA that is 6 feet long, has approximately 3 billion base pairs and contains 30,000 genes. If we simply calculate the length of the DNA on the basis of the distance between each nucleotide, i.e. 0.34 nm or 0.34 x 10-9 m_.
+
+Is DNA found in the blood?
+
+_DNA is contained in blood, semen, skin cells, tissue, organs, muscle, brain cells, bone, teeth, hair, saliva, mucus, perspiration, fingernails, urine, feces, etc. Where can DNA evidence be found at a crime scene? DNA evidence can be collected from virtually anywhere_.
