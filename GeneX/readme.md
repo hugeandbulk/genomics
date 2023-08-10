@@ -10,3 +10,7 @@ _The X chromosome is one of the two sex chromosomes that are involved in sex det
 Is a boy X or Y chromosome?
 
 _We inherit a set of 23 chromosomes from our mothers and another set of 23 from our fathers. One of those pairs are the chromosomes that determine the biological sex of a child – girls have an XX pair and boys have an XY pair, with very rare exceptions in certain disorders_.
+
+Can a human have one X chromosome?
+
+_About half of individuals with Turner syndrome have monosomy X, which means each cell in the individual's body has only one copy of the X chromosome instead of the usual two sex chromosomes. Turner syndrome can also occur if one of the sex chromosomes is partially missing or rearranged rather than completely absent_.
