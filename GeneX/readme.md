@@ -48,3 +48,7 @@ _There are at least six biological sexes that can result in fairly normal lifesp
 Who has 69 chromosomes?
 
 _Triploidy is a rare genetic condition that causes a developing fetus to have 69 total chromosomes in their cells instead of 46 total. Most pregnancies end in a miscarriage because of complications from the condition. Triploidy happens randomly and it isn't the result of the birthing parent's age_.
+
+Does XXY mean intersex?
+
+_People who are male have XY chromosomes. People who are females have XX chromosomes. People who are intersex may have a mix of chromosomes, such as XXY. Or they may have some cells that are XY and some cells that are XX. Or they may have just one X chromosome (XO)_.
