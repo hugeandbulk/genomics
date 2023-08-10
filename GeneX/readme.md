@@ -52,3 +52,7 @@ _Triploidy is a rare genetic condition that causes a developing fetus to have 69
 Does XXY mean intersex?
 
 _People who are male have XY chromosomes. People who are females have XX chromosomes. People who are intersex may have a mix of chromosomes, such as XXY. Or they may have some cells that are XY and some cells that are XX. Or they may have just one X chromosome (XO)_.
+
+How long is human DNA?
+
+_Each cell in the human body contains DNA that is 6 feet long, has approximately 3 billion base pairs and contains 30,000 genes. If we simply calculate the length of the DNA on the basis of the distance between each nucleotide, i.e. 0.34 nm or 0.34 x 10-9 m_.
