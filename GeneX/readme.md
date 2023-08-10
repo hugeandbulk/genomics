@@ -14,3 +14,7 @@ _We inherit a set of 23 chromosomes from our mothers and another set of 23 from 
 Can a human have one X chromosome?
 
 _About half of individuals with Turner syndrome have monosomy X, which means each cell in the individual's body has only one copy of the X chromosome instead of the usual two sex chromosomes. Turner syndrome can also occur if one of the sex chromosomes is partially missing or rearranged rather than completely absent_.
+
+What are the human X and Y chromosome?
+
+_In mammals, the sex chromosomes are called X and Y. Females have paired X chromosomes, one from each parent, while males have an X and a Y chromosome_.
