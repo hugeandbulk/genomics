@@ -44,3 +44,7 @@ _These are known as the sex chromosomes. Every egg has an X sex chromosome; a sp
 What are the six sexes of humans?
 
 _There are at least six biological sexes that can result in fairly normal lifespans. Kennon then lists six karyotype variations in humans: XX, XY, X, XXY, XYY, and XXXY_.
+
+Who has 69 chromosomes?
+
+_Triploidy is a rare genetic condition that causes a developing fetus to have 69 total chromosomes in their cells instead of 46 total. Most pregnancies end in a miscarriage because of complications from the condition. Triploidy happens randomly and it isn't the result of the birthing parent's age_.
