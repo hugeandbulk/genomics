@@ -1,4 +1,4 @@
-## GeneX
+# GeneX
 > The story of X `gene`.
 
 ## Human
