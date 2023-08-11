@@ -1,4 +1,4 @@
-## GeneY
+# GeneY
 > The story of Y `gene`.
 
 **Declared**
