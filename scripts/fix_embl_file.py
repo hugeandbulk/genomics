@@ -1,3 +1,6 @@
+# Script to mark some genes in an EMBL file as /pseudo
+# https://gist.github.com/avrilcoghlan/8d48476e3636f85e1f554ab563b1bbff
+
 import sys
 import os
 from collections import defaultdict
