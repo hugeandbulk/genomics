@@ -3,3 +3,5 @@ set -e
 
 $ pwd
 $ ls
+$ touch data.txt
+$ ls
