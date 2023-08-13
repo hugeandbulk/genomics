@@ -1,0 +1,11 @@
+my %sequences = (
+	"SequenceID|1234_Gene1"  => 'CTTTTAAGCTGATTAGGCTTTTATACCATTAGATTTAGTAACTATTGTCTTTTAA',
+	"SequenceID|9876_Gene2"  => 'GTGCTGTCTTAAGTTGAACAGAGTGTGGGAGGAAATATAAGCAAAGTTATTCCGTAGAATT',
+	"SequenceID|4567_Gene3" => 'CATCCTCCTTTACACCCCACAAACATTTGGCAACCCCTGATAGGTTTCTTTCTTGTGGA', 
+);
+
+foreach my $key (keys %sequences)
+{
+  my $len = length ($sequences{$key});
+  print "$key:$len\n";
+}
