@@ -11,6 +11,8 @@ _The X chromosome is one of the two sex chromosomes that are involved in sex det
 
 _The X chromosome likely contains 900 to 1,400 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body_.
 
+X chromosome: _Humans and many other mammals have one pair of sex chromosomes in each cell. Females have two X chromosomes, while males have one X and one Y chromosome. The chromosome X represents about 5% of a cell's total DNA and likely contains about 900 genes_.
+
 How many genes are in X chromosome?
 
 _The Y chromosome is important in determining a person's biological gender. But it has much less of a say in someone's genetic makeup, since the X chromosome likely has more than 1,000 genes whereas the Y chromosome has fewer than 80_.
