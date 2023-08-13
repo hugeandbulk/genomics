@@ -1,0 +1,4 @@
+FASTA file format
+-----------------
+In bioinformatics, FASTA format is a text-based format for representing DNA sequences, in which base pairs are represented using a single-letter code [A,C,G,T,N] where A=Adenosine, C=Cytosine, G=Guanine, T=Thymidine and N= any of A,C,G,T. The format also allows for sequence names and comments to precede the sequences.
+A sequence in FASTA format begins with a single-line identifier description, followed by lines of DNA sequence data. The identifier description line is distinguished from the sequence data by a greater-than ('>') symbol in the first column. The word following the ">" symbol is the identifier of the sequence, and the rest of the line is a description (optional) separated from the identifier by a white space or tab. The sequence data starts on the next line following the text line and ends if another line starting with a ">" appears; this indicates the start of another sequence.
