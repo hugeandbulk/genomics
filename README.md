@@ -1,4 +1,6 @@
 # genomics
+> 14th August, 2023.
+
 _Genomics is the study of all of a person's genes (the genome), including interactions of those genes with each other and with the person's environment_.
 
 _for making a specific protein or set of proteins. Each of the estimated 20,000 to 25,000 genes in the human genome codes for an average of three proteins_.
